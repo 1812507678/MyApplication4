@@ -1,71 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_pressed.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_pressed.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_install_selector.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_install_selector.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_press.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_press.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_del_selector.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_del_selector.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_tap.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_tap.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_press.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_press.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_selector.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_recommend_selector.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_recommend_selector.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_ratingbar_selector.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_ratingbar_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_normal.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_normal.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_card_dot_seletor.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_card_dot_seletor.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_bg_popup_dialog.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_bg_popup_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_ratingbar_selector.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_ratingbar_selector.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_recommend_selector.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_recommend_selector.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_normal.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_normal.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_pressed.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_pressed.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_selector.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_selector.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_pressed.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_pressed.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_bg_popup_dialog.xml",
@@ -80,14 +28,6 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_selector.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_costum_progress_bar.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_costum_progress_bar.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_selector.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_selector.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_install_selector.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_install_selector.xml"
     },
@@ -100,20 +40,20 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_del_selector.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_tap.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_tap.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_press.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_ok_bg_press.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_normal.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_normal.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_recommend_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_recommend_selector.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_costum_progress_bar.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_costum_progress_bar.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_ic_card_dot_seletor.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_ic_card_dot_seletor.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_cancel_bg_normal.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable\\jp_ad_btn_cancel_bg_normal.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable\\jp_ad_btn_ok_bg_tap.xml",

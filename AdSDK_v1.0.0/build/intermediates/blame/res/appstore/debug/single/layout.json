@@ -1,61 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_drop_down_list_footer.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_drop_down_list_footer.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_custom_dialog.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_custom_dialog.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_push_notification.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_push_notification.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_app_grid_item.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_app_grid_item.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_popup_layout.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_popup_layout.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_float_window_small.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_float_window_small.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_card_content_layout.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_card_content_layout.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_download_notification.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_download_notification.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_image_text_layout.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_image_text_layout.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_drop_down_list_header.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_drop_down_list_header.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_card_content_layout.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_card_content_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_popup_layout.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_popup_layout.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_confirm_dialog.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_confirm_dialog.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_demo_list_content_item.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_demo_list_content_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_custom_dialog.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_custom_dialog.xml"
     },
@@ -64,8 +8,8 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_demo_list_content_item.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_card_layout.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_card_layout.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_drop_down_list_footer.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_drop_down_list_footer.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_image_text_layout.xml",
@@ -76,8 +20,16 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_card_layout.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_load_more_footer.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_load_more_footer.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_push_notification.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_push_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_app_grid_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_app_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_card_content_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_card_content_layout.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_load_more_footer.xml",
@@ -88,48 +40,28 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_confirm_dialog.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_push_notification.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_push_notification.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_popup_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_popup_layout.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_download_notification.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_download_notification.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_float_sidebar_small.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_float_sidebar_small.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_demo_layout.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_demo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_float_sidebar_small.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_float_sidebar_small.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_drop_down_list_header.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_drop_down_list_header.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_app_grid_item.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_app_grid_item.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_demo_layout.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_demo_layout.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_drop_down_list_footer.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_drop_down_list_footer.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_float_window_small.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_float_window_small.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_sudoku_main.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_sudoku_main.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_float_sidebar_small.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\layout\\jp_ad_float_sidebar_small.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\layout\\jp_ad_sudoku_main.xml",

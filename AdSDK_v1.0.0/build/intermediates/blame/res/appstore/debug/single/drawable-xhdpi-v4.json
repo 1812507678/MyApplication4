@@ -1,95 +1,11 @@
 [
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_banner_index_default.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_banner_index_default.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_image_default.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_image_default.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_del.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_del.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_launcher.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_del_press.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_del_press.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_donw_tip.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_donw_tip.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_icon_defaut.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_icon_defaut.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_common.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_common.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_btn_install_default.9.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_btn_install_default.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_dot.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_dot.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_topbar.jpg",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_topbar.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_sidebar_left.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_sidebar_left.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_push.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_push.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_close.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_close.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_dot_press.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_dot_press.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_close.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_close.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_sidebar_left.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_sidebar_left.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_image_default.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_image_default.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_common.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_common.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_donw_tip.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_donw_tip.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_sidebar_right.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_sidebar_right.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_dot.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_dot.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_topbar.jpg",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_topbar.jpg"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_dot_press.png",
@@ -100,8 +16,8 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_btn_install_default.9.png"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_btn_install_press.9.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_btn_install_press.9.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_del_press.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_del_press.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_ratingbar_default.png",
@@ -120,16 +36,20 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_launcher.png"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_ratingbar_default.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_ratingbar_default.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_dot.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_dot.png"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_sidebar_right.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_sidebar_right.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_topbar.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_topbar.jpg"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_ratingbar_press.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_ratingbar_press.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_sidebar_left.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_sidebar_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_card_close.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_card_close.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_banner_index_default.png",
@@ -144,19 +64,19 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_del.png"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_del_press.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_del_press.png"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_banner_index_press.png",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_banner_index_press.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_push.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_push.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_ic_image_default.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_ic_image_default.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_banner_index_press.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_banner_index_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-xhdpi-v4\\jp_ad_bg_common.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-xhdpi\\jp_ad_bg_common.png"
     }
 ]

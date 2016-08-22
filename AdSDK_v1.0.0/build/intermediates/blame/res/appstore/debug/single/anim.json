@@ -4,14 +4,6 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\anim\\jp_ad_anim_slide_in_right.xml"
     },
     {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\anim\\jp_ad_anim_slide_out_left.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\anim\\jp_ad_anim_slide_out_left.xml"
-    },
-    {
-        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\anim\\jp_ad_anim_slide_in_right.xml",
-        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\anim\\jp_ad_anim_slide_in_right.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\anim\\jp_ad_anim_slide_out_left.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\anim\\jp_ad_anim_slide_out_left.xml"
     }
