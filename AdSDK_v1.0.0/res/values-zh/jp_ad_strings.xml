@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jp_ad_app_name">售后服务</string>
+    <string name="jp_ad_drop_down_list_header_default_text">点击可以刷新</string>
+    <string name="jp_ad_drop_down_list_header_pull_text">下拉可以刷新</string>
+    <string name="jp_ad_drop_down_list_header_release_text">松开可以刷新</string>
+    <string name="jp_ad_drop_down_list_header_loading_text">加载中&#8230;</string>
+    <string name="jp_ad_drop_down_list_footer_default_text">更多</string>
+    <string name="jp_ad_drop_down_list_footer_loading_text">加载中&#8230;</string>
+    <string name="jp_ad_drop_down_list_footer_no_more_text">没有更多了</string>
+    <string name="jp_ad_network_error">无法连接到网络，请检查网络设置</string>
+    <string name="jp_ads_download_downloading">正在下载:</string>
+    <string name="jp_ads_download_finish">下载完成，请点击安装</string>
+    <string name="jp_ads_download_error">下载失败</string>
+
+    <string name="jp_ad_update_title">发现新版本</string>
+    <string name="jp_ad_new_version">最新版本: </string>
+    <string name="jp_ad_update_content">更新内容</string>
+    <string name="jp_ad_update_size">仅需要下载:</string>
+    <string name="jp_ad_target_size">新版本大小:</string>
+    <string name="jp_ad_gprs_condition">（提示：非WIFI环境）</string>
+    <string name="jp_ad_update_now">立即更新</string>
+    <string name="jp_ad_app_update">应用更新</string>
+    <string name="jp_ad_not_now">以后再说</string>
+    <string name="jp_ad_ignore">忽略该版</string>
+    <string name="jp_ad_toast_is_updating">正在更新中....</string>
+    <string name="jp_ad_sidebar_exit">退出</string>
+</resources>

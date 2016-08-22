@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jp_ad_app_name">After-Sales Service</string>
+    <string name="jp_ad_drop_down_list_header_default_text">Click to refresh&#8230;</string>
+    <string name="jp_ad_drop_down_list_header_pull_text">Drop Down to refresh&#8230;</string>
+    <string name="jp_ad_drop_down_list_header_release_text">Release to refresh&#8230;</string>
+    <string name="jp_ad_drop_down_list_header_loading_text">Loading&#8230;</string>
+    <string name="jp_ad_drop_down_list_footer_default_text">More</string>
+    <string name="jp_ad_drop_down_list_footer_loading_text">Loading&#8230;</string>
+    <string name="jp_ad_drop_down_list_footer_no_more_text">No More</string>
+    <string name="jp_ad_image_content">Image</string>
+    <string name="jp_ad_network_error">network isn\'t connected</string>
+    <string name="jp_ad_download_downloading">Downloading</string>
+    <string name="jp_ad_download_finish">download finish,click install</string>
+    <string name="jp_ad_download_error">download error</string>
+
+    <string name="jp_ad_update_title">New version found</string>
+    <string name="jp_ad_new_version">Latest version: </string>
+    <string name="jp_ad_update_content">Update Content</string>
+    <string name="jp_ad_update_size">Update size: </string>
+    <string name="jp_ad_target_size">Target size: </string>
+    <string name="jp_ad_gprs_condition">(Warning: Not WIFI Condition)</string>
+    <string name="jp_ad_update_now">Update now</string>
+    <string name="jp_ad_app_update">App updating</string>
+    <string name="jp_ad_not_now">Not now</string>
+    <string name="jp_ad_ignore">Ignore this</string>
+    <string name="jp_ad_toast_is_updating">Updating....</string>
+
+    <string name="jp_ad_start_download_app">%s Downloading on backstage</string>
+    <string name="jp_ad_sidebar_exit">Exit</string>
+
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jp_ad_black">#000000</color>
+    <color name="jp_ad_black_name">#333333</color>
+    <color name="jp_ad_color_ad_background">#eaeaea</color>
+    <color name="jp_ad_color_ad_description">#5a5a5d</color>
+    <color name="jp_ad_color_ad_install">#ffffff</color>
+    <color name="jp_ad_color_ad_title">#ea5c73</color>
+    <color name="jp_ad_color_process_background">#99000000</color>
+    <color name="jp_ad_color_process_download">#fd5971</color>
+    <color name="jp_ad_color_transparent">#00000000</color>
+    <color name="jp_ad_context_color">#999999</color>
+    <color name="jp_ad_dark_slate_gray">#2F4F4F</color>
+    <color name="jp_ad_dialog_color_bg">#fdffe0</color>
+    <color name="jp_ad_drop_down_list_footer_font_color">#000000</color>
+    <color name="jp_ad_drop_down_list_header_font_color">#000000</color>
+    <color name="jp_ad_drop_down_list_header_second_font_color">#000000</color>
+    <color name="jp_ad_gray_1">#C0C0C0</color>
+    <color name="jp_ad_gray_2">#AFAFAF</color>
+    <color name="jp_ad_line_color">#dadada</color>
+    <color name="jp_ad_title_color">#44a0fe</color>
+    <declare-styleable name="jp_ad_drop_down_list_attr"><attr format="boolean" name="isDropDownStyle"/><attr format="boolean" name="isOnBottomStyle"/><attr format="boolean" name="isAutoLoadOnBottom"/></declare-styleable>
+    <dimen name="jp_ad_drop_down_list_footer_button_height">48dp</dimen>
+    <dimen name="jp_ad_drop_down_list_footer_button_margin_left">8dp</dimen>
+    <dimen name="jp_ad_drop_down_list_footer_progress_bar_height">36dp</dimen>
+    <dimen name="jp_ad_drop_down_list_header_padding_bottom">15dp</dimen>
+    <dimen name="jp_ad_drop_down_list_header_padding_top">12dp</dimen>
+    <dimen name="jp_ad_drop_down_list_header_progress_bar_height">36dp</dimen>
+    <dimen name="jp_ad_drop_down_list_header_release_min_distance">20dp</dimen>
+    <string name="app_name">IAdPlugin</string>
+    <string name="jp_ad_app_name">After-Sales Service</string>
+    <string name="jp_ad_app_update">App updating</string>
+    <string name="jp_ad_download_downloading">Downloading</string>
+    <string name="jp_ad_download_error">download error</string>
+    <string name="jp_ad_download_finish">download finish,click install</string>
+    <string name="jp_ad_drop_down_list_footer_default_text">More</string>
+    <string name="jp_ad_drop_down_list_footer_loading_text">Loading…</string>
+    <string name="jp_ad_drop_down_list_footer_no_more_text">No More</string>
+    <string name="jp_ad_drop_down_list_header_default_text">Click to refresh…</string>
+    <string name="jp_ad_drop_down_list_header_loading_text">Loading…</string>
+    <string name="jp_ad_drop_down_list_header_pull_text">Drop Down to refresh…</string>
+    <string name="jp_ad_drop_down_list_header_release_text">Release to refresh…</string>
+    <string name="jp_ad_gprs_condition">(Warning: Not WIFI Condition)</string>
+    <string name="jp_ad_ignore">Ignore this</string>
+    <string name="jp_ad_image_content">Image</string>
+    <string name="jp_ad_network_error">network isn\'t connected</string>
+    <string name="jp_ad_new_version">Latest version: </string>
+    <string name="jp_ad_not_now">Not now</string>
+    <string name="jp_ad_sidebar_exit">Exit</string>
+    <string name="jp_ad_start_download_app">%s Downloading on backstage</string>
+    <string name="jp_ad_target_size">Target size: </string>
+    <string name="jp_ad_toast_is_updating">Updating....</string>
+    <string name="jp_ad_update_content">Update Content</string>
+    <string name="jp_ad_update_now">Update now</string>
+    <string name="jp_ad_update_size">Update size: </string>
+    <string name="jp_ad_update_title">New version found</string>
+    <string name="service_name_plugin_manager_service">插件管理服务</string>
+    <string name="stub_name_activity">启动插件ing...</string>
+    <string name="stub_name_povider">插件代理服务</string>
+    <string name="stub_name_service">插件代理服务</string>
+    <style name="DroidPluginTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/plugin_activity_loading</item>
+    </style>
+    <style name="DroidPluginThemeDialog" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/plugin_activity_loading</item>
+    </style>
+    <style name="jp_ad_dialog" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="jp_ad_drop_down_list_footer_font_style">
+        <item name="android:textColor">@color/jp_ad_drop_down_list_footer_font_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="jp_ad_drop_down_list_footer_progress_bar_style">
+        <item name="android:minHeight">@dimen/jp_ad_drop_down_list_footer_progress_bar_height</item>
+        <item name="android:maxHeight">@dimen/jp_ad_drop_down_list_footer_progress_bar_height</item>
+    </style>
+    <style name="jp_ad_drop_down_list_header_font_style">
+        <item name="android:textColor">@color/jp_ad_drop_down_list_header_font_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="jp_ad_drop_down_list_header_progress_bar_style">
+        <item name="android:minHeight">@dimen/jp_ad_drop_down_list_header_progress_bar_height</item>
+        <item name="android:maxHeight">@dimen/jp_ad_drop_down_list_header_progress_bar_height</item>
+    </style>
+    <style name="jp_ad_drop_down_list_header_second_font_style">
+        <item name="android:textColor">@color/jp_ad_drop_down_list_header_second_font_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="jp_ad_install_notification_content" parent="android:TextAppearance.StatusBar.EventContent"/>
+    <style name="jp_ad_install_notification_title" parent="android:TextAppearance.StatusBar.EventContent.Title"/>
+</resources>

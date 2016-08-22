@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\AndroidStudioProjects\MyApplication4\AdSDK_v1.0.0\src\androidTest\assets"/><source path="C:\Users\Administrator\AndroidStudioProjects\MyApplication4\AdSDK_v1.0.0\build\generated\assets\shaders\androidTest\appstore\debug"/></dataSet><dataSet config="appstore"><source path="C:\Users\Administrator\AndroidStudioProjects\MyApplication4\AdSDK_v1.0.0\src\androidTestAppstore\assets"/></dataSet></merger>

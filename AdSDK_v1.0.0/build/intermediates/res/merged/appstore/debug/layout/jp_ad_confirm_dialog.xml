@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/jp_ad_bg_popup_dialog"
+        android:orientation="vertical"
+        android:paddingBottom="8dp">
+
+        <!-- Title -->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dp">
+
+            <TextView
+                android:id="@+id/jp_ad_popup_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/jp_ad_update_title"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#008bea" />
+
+        </RelativeLayout>
+
+        <!-- split -->
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#008bea" />
+        <!-- Content -->
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/jp_ad_popup_content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="10dp"
+                    android:focusable="true"
+                    android:textColor="#000" />
+            </LinearLayout>
+        </ScrollView>
+
+        <!-- OK&Cancel Button -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+
+            <Button
+                android:id="@+id/jp_ad_popup_cancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/jp_ad_btn_cancel_bg_selector"
+                android:focusable="true"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="@string/jp_ad_not_now"
+                android:textColor="#000" />
+
+            <Button
+                android:id="@+id/jp_ad_popup_ok"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/jp_ad_btn_ok_bg_selector"
+                android:focusable="true"
+                android:gravity="center"
+                android:padding="8dp"
+                android:text="@string/jp_ad_update_now"
+                android:textColor="#FFFFFF" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

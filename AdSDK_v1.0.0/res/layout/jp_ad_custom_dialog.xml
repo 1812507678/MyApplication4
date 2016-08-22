@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/jp_ad_custom_dialog_fl_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:id="@+id/jp_ad_custom_dialog_ll_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/jp_ad_bg_common"
+        android:gravity="center">
+
+        <com.jp.jpad.ads.view.IconAdView
+            android:id="@+id/jp_ad_custom_dialog_imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:src="@drawable/jp_ad_ic_icon_defaut" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/jp_ad_custom_dialog_btn_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@null"
+        android:src="@drawable/jp_ad_ic_sudoku_close" />
+</FrameLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdPluginImpl/AdPluginImpl.iml" filepath="$PROJECT_DIR$/AdPluginImpl/AdPluginImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdSDK_v1.0.0/AdSDK_v1.0.0.iml" filepath="$PROJECT_DIR$/AdSDK_v1.0.0/AdSDK_v1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IAdPlugin/IAdPlugin.iml" filepath="$PROJECT_DIR$/IAdPlugin/IAdPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication4.iml" filepath="$PROJECT_DIR$/MyApplication4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

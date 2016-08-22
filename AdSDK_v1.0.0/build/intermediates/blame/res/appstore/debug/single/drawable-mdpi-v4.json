@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-mdpi-v4\\jp_ad_ic_drop_down_list_arrow.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-mdpi\\jp_ad_ic_drop_down_list_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-mdpi-v4\\umeng_push_notification_default_small_icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-mdpi\\umeng_push_notification_default_small_icon.png"
+    },
+    {
+        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-mdpi-v4\\umeng_push_notification_default_large_icon.png",
+        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-mdpi\\umeng_push_notification_default_large_icon.png"
+    },
+    {
+        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-mdpi-v4\\jp_ad_ic_drop_down_list_arrow.png",
+        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-mdpi\\jp_ad_ic_drop_down_list_arrow.png"
+    },
+    {
+        "merged": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-mdpi-v4\\umeng_push_notification_default_small_icon.png",
+        "source": "E:\\jity\\sdkCode\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-mdpi\\umeng_push_notification_default_small_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\build\\intermediates\\res\\merged\\appstore\\debug\\drawable-mdpi-v4\\umeng_push_notification_default_large_icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication4\\AdSDK_v1.0.0\\res\\drawable-mdpi\\umeng_push_notification_default_large_icon.png"
+    }
+]

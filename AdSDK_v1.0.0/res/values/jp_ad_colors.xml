@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- drop down list header font color -->
+    <color name="jp_ad_drop_down_list_header_font_color">#000000</color>
+    <!-- drop down list header second font color -->
+    <color name="jp_ad_drop_down_list_header_second_font_color">#000000</color>
+    <!-- drop down list footer font color -->
+    <color name="jp_ad_drop_down_list_footer_font_color">#000000</color>
+
+    <color name="jp_ad_color_transparent">#00000000</color><!-- 透明 -->
+
+    <color name="jp_ad_color_process_download">#fd5971</color>
+    <color name="jp_ad_color_process_background">#99000000</color>
+    <color name="jp_ad_color_ad_title">#ea5c73</color>
+    <color name="jp_ad_color_ad_description">#5a5a5d</color>
+    <color name="jp_ad_color_ad_install">#ffffff</color>
+    <color name="jp_ad_color_ad_background">#eaeaea</color>
+
+    <color name="jp_ad_dark_slate_gray">#2F4F4F</color>
+    <color name="jp_ad_gray_2">#AFAFAF</color>
+    <color name="jp_ad_gray_1">#C0C0C0</color>
+    <color name="jp_ad_black">#000000</color>
+    <color name="jp_ad_black_name">#333333</color>
+    <color name="jp_ad_title_color">#44a0fe</color>
+    <color name="jp_ad_context_color">#999999</color>
+    <color name="jp_ad_line_color">#dadada</color>
+    <color name="jp_ad_dialog_color_bg">#fdffe0</color>
+</resources>
